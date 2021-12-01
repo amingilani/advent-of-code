@@ -1,0 +1,2 @@
+The answer to part 1 is 1288
+The answer to part 2 is 1311
